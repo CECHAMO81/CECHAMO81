@@ -1,4 +1,4 @@
-- 👋 hola, me llamo @CECHAMO81 alias la rana xd
+- 👋 hola, me llamo @CECHAMO81
 - 👀 estoy interesado en programacion de multiples plataformas
 - 🌱 actualmenta estoy aprendiendo a programar con haxe
 - 💞️ me justaria colaborar en empresas de programacion o en pequeños proyectos 
